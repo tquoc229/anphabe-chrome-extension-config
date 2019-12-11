@@ -1,0 +1,180 @@
+{
+  "defaultDataVrs": 12,
+  "customScript": "js/custom.js",
+  "defaultData": [
+    {
+      "link": "https://www.anphabe.com",
+      "title": "Anphabe",
+      "image": "theme/anphabe.png",
+      "id": "001Anphabe"
+    },
+    {
+      "link": "https://anphabe.workplace.com",
+      "title": "Workplace",
+      "image": "theme/workplace.png",
+      "id": "002Workplace"
+    },
+    {
+      "link": "http://wiki.anphabe.work",
+      "title": "Anphabe Wiki",
+      "image": "theme/wiki.png",
+      "id": "003Wiki"
+    },
+    {
+      "link": "http://task.anphabe.work",
+      "title": "Tasks",
+      "image": "theme/task.png",
+      "id": "004Task"
+    },
+    {
+      "link": "https://forms.gle/TiSY5KVM3nvPTq527",
+      "title": "Ong đưa thư",
+      "image": "theme/ongduathu.jpg",
+      "id": "0051OngDuaThu"
+    },
+    {
+      "link": "http://anpha.be/xinnghiphep",
+      "title": "Đơn xin nghỉ phép",
+      "image": "theme/nghiphep.png",
+      "id": "006NghiPhep"
+    },
+    {
+      "link": "http://docman.anphabe.net",
+      "title": "Docman",
+      "image": "theme/docman.png",
+      "id": "007Docman"
+    },
+    {
+      "link": "http://www.bitrix24.com/",
+      "title": "Bitrix",
+      "image": "theme/bitrix.png",
+      "id": "008Bitrix"
+    },
+    {
+      "link": "http://newsletter.anphabe.net",
+      "title": "Newsletter",
+      "image": "theme/newsletter.png",
+      "id": "009Newsletter"
+    },
+    {
+      "link": "http://www.miomail2018.anphabe.net",
+      "title": "Miomail",
+      "image": "theme/miomail.png",
+      "id": "010Miomail"
+    },
+    {
+      "link": "http://m3.mailcampaign.com",
+      "title": "M3 Mailcampaign",
+      "image": "theme/m3.campaign.png",
+      "id": "011M3.mailcampaign"
+    },
+    {
+      "link": "http://it.anphabe.net",
+      "title": "Quản lý thiết bị",
+      "image": "theme/equipment_management.png",
+      "id": "012ManageEquipment"
+    },
+    {
+      "link": "http://git.anphabe.net/",
+      "title": "Git",
+      "image": "theme/git.png",
+      "id": "013Git"
+    },
+    {
+      "link": "http://packages.anphabe.net",
+      "title": "Packagist",
+      "image": "theme/packages.jpeg",
+      "id": "014Packages"
+    },
+
+    {
+      "link": "http://jenkins.anphabe.net",
+      "title": "Jenkins",
+      "image": "theme/jenkins.png",
+      "id": "015Jenkins"
+    }
+  ],
+  "background": [
+    "images/1.jpg",
+    "images/2.jpg",
+    "images/3.jpg",
+    "images/4.jpg",
+    "images/5.jpg",
+    "images/6.jpg",
+    "images/7.jpg",
+    "images/8.jpg",
+    "images/9.jpg",
+    "images/10.jpg",
+    "images/11.jpg",
+    "images/12.jpg",
+    "images/13.jpg",
+    "images/14.jpg",
+    "images/15.jpg",
+    "images/16.jpg"
+  ],
+  "welcomeMessages": {
+    "8": [
+      "Dự định hôm nay của [name] là gì?",
+      "Hôm nay [name] muốn thực hiện điều gì?",
+      "Chúc [name] buổi sáng tốt lành, nhớ ăn sáng trước khi đi làm nhé. Cả ngày phải nhớ là luôn vui vẻ và hạnh phúc nghen.",
+      "Nhâm nhi một cốc cà phê, ăn một bữa sáng thật ngon và bắt đầu một ngày tuyệt vời thật tươi mới, [name] nhé!",
+      "Đêm qua [name] ngủ ngon chứ? Chúc [name] một ngày mới hạnh phúc và luôn mỉm cười nhé!",
+      "Lời khuyên của bác sĩ dành cho [name] nè: “Ăn sáng đều đặn, uống nhiều nước và cười thật nhiều”. Buổi sáng ấm áp [name] nhé!",
+      "Hãy sống trọn từng khoảnh khắc. Bắt đầu mỗi ngày bằng suy nghĩ lạc quan và nụ cười hiện diện trên gương mặt [name] nhé.",
+      "Nụ cười cóthể mở cửa con tim nhanh hơn một chiếc chìa khóa mở cửa vào nhà. Hãy làm bừng sáng thế giới bằng nụ cười của [name]. Chào buổi sáng!",
+      "Chào mừng về tổ mới, <br>Chúc Ong [name] một ngày làm việc thiệc vui vẻ!<br>--NEW BEE HIVE--",
+      "Chỗ ngồi gọn gàng, đầu óc thông thoáng. Cùng dọn tổ mừng nhà mới nào bạn ơi!<br>--NEW BEE HIVE--"
+    ],
+    "9": [
+      "Chúc [name] buổi sáng tốt lành, nhớ ăn sáng trước khi đi làm nhé. Cả ngày phải nhớ là luôn vui vẻ và hạnh phúc nghen.",
+      "Nhâm nhi một cốc cà phê, ăn một bữa sáng thật ngon và bắt đầu một ngày tuyệt vời thật tươi mới, [name] nhé!",
+      "Đêm qua [name] ngủ ngon chứ? Chúc [name] một ngày mới hạnh phúc và luôn mỉm cười nhé!",
+      "Lời khuyên của bác sĩ dành cho [name] nè: “Ăn sáng đều đặn, uống nhiều nước và cười thật nhiều”. Buổi sáng ấm áp [name] nhé!",
+      "Hãy sống trọn từng khoảnh khắc. Bắt đầu mỗi ngày bằng suy nghĩ lạc quan và nụ cười hiện diện trên gương mặt [name] nhé.",
+      "Nụ cười có thể mở cửa con tim nhanh hơn một chiếc chìa khóa mở cửa vào nhà. Hãy làm bừng sáng thế giới bằng nụ cười của [name]. Chào buổi sáng!",
+      "Chào mừng về tổ mới, <br>Chúc Ong [name] một ngày làm việc thiệc vui vẻ!<br>---NEW BEE HIVE---",
+      "Chỗ ngồi gọn gàng, đầu óc thông thoáng. Cùng dọn tổ mừng nhà mới nào bạn ơi!<br>--NEW BEE HIVE--"
+    ],
+    "12": [
+      "Ăn uống cho no nê, ngủ nghỉ cho thật thoải mái rồi hãy bắt đầu buổi chiều làm việc thật sảng khoái, [name] nhé!",
+      "Nghỉ ngơi rồi đi ăn gì đó đi [name], không là tui giận đó nha!",
+      "Đi ăn rồi làm một giấc cho thoải mải nào, mắt [name] mỏi lắm rồi đó, nghỉ ngơi đi nhaaaaaa!"
+    ],
+    "17": [
+      "Một ngày làm việc sắp kết thúc rồi. Nhớ thu dọn hết đồ đạt trước khi về, [name] nha.",
+      "Ra về nhớ phải đóng cửa tắt đèn, tiết kiệm là quốc sách!",
+      "Ngày làm việc hôm nay của [name] thế nào? Nếu vui, hãy cười chào đồng nghiệp trước khi về. Nếu buồn, hãy nán lại một chút và chia sẻ với họ."
+    ],
+    "18": [
+      "Một ngày làm việc sắp kết thúc rồi. Nhớ thu dọn hết đồ đạt trước khi về, [name] nha.",
+      "Ra về nhớ phải đóng cửa tắt đèn, tiết kiệm là quốc sách!",
+      "Ngày làm việc hôm nay của [name] thế nào? Nếu vui, hãy cười chào đồng nghiệp trước khi về. Nếu buồn, hãy nán lại một chút và chia sẻ với họ."
+    ],
+    "default": [
+      "Dự định hôm nay của [name] là gì?",
+      "Hôm nay [name] muốn thực hiện điều gì?"
+    ]
+  },
+  "quotes": [
+    "Trí tưởng tượng đôi khi còn quan trọng hơn cả kiến thức. <cite class='font-weight-bold'>Albert Einstein</cite>",
+    "Đừng bao giờ mơ về thành công mà hãy làm mọi thứ để đạt được nó. <cite>Estée Lauder</cite>",
+    "Điều đầu tiên để thành công: Yêu công việc bạn đang làm. <cite>anonymous</cite>",
+    "Mọi ước mơ đều có thể trở thành hiện thực, nhưng liệu bạn có đủ dũng cảm để theo đuổi nó hay không? <cite>Walt Disney</cite>",
+    "Không có gì tuyệt vời hơn một ý tưởng đến đúng thời điểm. <cite>Victor Hugo</cite>",
+    "Đừng bao giờ luồn cúi, hãy ngẩng cao đầu và nhìn cả thế giới qua đôi mắt của bạn. <cite>Helen Keller</cite>",
+    "Đặt cho mình những mục tiêu là bước đầu tiên để biến những điều không thể thành có thể. <cite>Tony Robbins</cite>",
+    "Bạn không được bỏ cuộc. Khi bạn bỏ cuộc, bạn sẽ cũng chỉ như bao người khác. <cite>Chris Evert</cite>",
+    "Nếu bạn làm một công việc bạn thật sự thích, đam mê và những viễn cảnh tương lai tuyệt vời sẽ dẫn lối cho bạn. <cite>Steve Jobs</cite>",
+    "Chẳng có con đường nào dễ dàng để chạm tới những vì sao. <cite>Seneca</cite>",
+    "Kẻ chiến thắng không phải là kẻ thắng mọi cuộc chiến, mà là kẻ biết vùng lên sau mỗi thất bại. <cite>Napoleon Bonaparte</cite>",
+    "Thực tại được tạo ra bởi tâm trí, suy nghĩ khác đi sẽ làm thay đổi thực tại. <cite>Socrates</cite>",
+    "Không có bất cứ thế lực nào có thể nắm giữ số phận chúng ta ngoài chính chúng ta. <cite>William Shakespeare</cite>",
+    "Đừng để nỗi sợ ngăn bạn làm những việc bạn nghĩ là đúng đắn. <cite>Aung San Suu Kyi</cite>",
+    "Bạn không thể nào băng qua đại dương rộng lớn nếu không dám lao vào biển cả mênh mông. <cite>Christopher Columbus</cite>",
+    "Biết là chưa đủ, phải áp dụng. Ước mơ là chưa đủ, phải thực hiện. <cite>Johann Wolfgang Von Goethe</cite>",
+    "Nhiều người có tham vọng thay đổi thế giới, nhưng ít ai nghĩ đến việc phải thay đổi bản thân. <cite>Lev Nikolaevich Tolstoy</cite>",
+    "Trước khi từ bỏ ước mơ, hãy nghĩ về quãng thời gian đã bỏ ra để theo đuổi nó. <cite>Earl Nightingale</cite>",
+    "Những lời nói dối của những người xung quanh không quan trọng bằng những lời nói dối trong chính thâm tâm bạn. <cite>Ralph Waldo Emerson</cite>",
+    "Luôn ngẩng mặt về hướng mặt trời và bóng tối sẽ nằm lại phía sau lưng. <cite>Walt Whitman</cite>"
+  ]
+}
